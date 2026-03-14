@@ -33,7 +33,7 @@ export async function generateImages(
   mimeType: string,
   count: number = 1
 ) {
-  const model = "gemini-3.1-flash-image-preview";
+  const model = "gemini-1.5-flash";  // hoặc "gemini-2.5-flash" nếu có
   
   const response = await genAI.models.generateContent({
     model,
