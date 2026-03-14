@@ -1,0 +1,5 @@
+{
+  "name": "Nhân Vật AI - Thay Trang Phục & Bối Cảnh",
+  "description": "Ứng dụng AI giúp thay đổi trang phục và bối cảnh cho nhân vật từ ảnh mẫu, hỗ trợ tạo video chuyển động với Veo 3.1.",
+  "requestFramePermissions": []
+}
